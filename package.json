@@ -1,7 +1,7 @@
 {
   "name": "create-scss-app",
   "version": "1.0.0",
-  "description": "Bootstrap app with scss-loader and live-server",
+  "description": "Bootstrap app with node-sass and live-server",
   "main": "index.js",
   "scripts": {
     "compile": "node-sass scss/main.scss css/index.css -w",
